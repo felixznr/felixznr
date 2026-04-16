@@ -50,6 +50,7 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 ---
 
 <div align="center">
+ 
 ![Project Collage](collage.gif)
  
 </div>
