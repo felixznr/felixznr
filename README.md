@@ -19,12 +19,13 @@
 
 ## About Me
 
-I'm a high school student at **HTBLuVA Salzburg**, Austria — passionate about pcb design, control theory, and building things that actually work in the real world.
+I'm a student at the higher technical college **HTBLuVA Salzburg**, Austria — passionate about pcb design, control theory, and robotics.
 
 My current focus is my **diploma thesis**: designing a fully functional **Flight Computer** for a rocket from the ground up — firmware, hardware, and all that comes with it.
 
 - &nbsp;Working on a **Flight Computer** for my diploma thesis
 - &nbsp;Interested in **STM32**, **LQG Control Theory** & **PCB Design**
+- &nbsp;18 years old
 - &nbsp;Based in **Salzburg, Austria**
 
 
