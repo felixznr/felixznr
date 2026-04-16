@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -29,7 +29,7 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 - &nbsp;Based in **Salzburg, Austria**
 
 
----
+
 
 ## Tech Stack & Tools
 
@@ -48,7 +48,7 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 </div>
 
----
+
 
 ## Some Impressions of my work ;)
 
@@ -58,7 +58,7 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
  
 </div>
 
----
+
 
 ## Get in Touch
 
