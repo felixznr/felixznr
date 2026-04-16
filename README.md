@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixzauner21@icloud.com)
+[![Email](https://img.shields.io/badge/Email-felixzauner21%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixzauner21@icloud.com)
 [![School](https://img.shields.io/badge/HTBLuVA-Salzburg-003DA5?style=for-the-badge&logo=academia&logoColor=white)](https://www.htl-salzburg.ac.at/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Zauner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-zauner-555a2038a/)
