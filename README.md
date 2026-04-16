@@ -62,14 +62,15 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 <div align="center">
 
-Feel free to reach out — whether it's about embedded systems, control theory, or just to say hi.
+Feel free to reach out — whether it's about one of my projects or just to say hi.
 
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixzauner21@icloud.com)
 
 </div>
 
----
 
 <div align="center">
-<sub>⚡ Powered by curiosity!</sub>
+<img src="log_lady.svg" width="420"/>
 </div>
+
+
