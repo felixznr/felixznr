@@ -47,11 +47,12 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 
 </div>
+
 ---
 
 <div align="center">
  
-![Project Collage](collage.gif)
+<img src="collage.gif" width="500"/>
  
 </div>
 
