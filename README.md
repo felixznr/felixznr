@@ -1,9 +1,6 @@
 <div align="center">
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems)](https://git.io/typing-svg)
- 
-<br/>
-> *"Damn fine cup of coffee."* — Agent Cooper, Twin Peaks
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems;"Damn+fine+cup+of+coffee.")](https://git.io/typing-svg)
  
 <br/>
 [![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felix.zauner07@htl-salzburg.ac.at)
