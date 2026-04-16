@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems;Damn+fine+cup+of+coffee.+-+Cooper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B9E6B&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems;Damn+fine+cup+of+coffee.+-+Cooper)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felix.zauner07@htl-salzburg.ac.at)
-[![School](https://img.shields.io/badge/HTBLuVA-Salzburg-39FF14?style=for-the-badge&logo=academia&logoColor=black)](https://www.htl-salzburg.ac.at/)
+[![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix.zauner07@htl-salzburg.ac.at)
+[![School](https://img.shields.io/badge/HTBLuVA-Salzburg-003DA5?style=for-the-badge&logo=academia&logoColor=white)](https://www.htl-salzburg.ac.at/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Zauner-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felix-zauner-555a2038a/)
-[![YouTube](https://img.shields.io/badge/YouTube-ALBERT--AERO-39FF14?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@ALBERT-AERO)
-[![Instagram](https://img.shields.io/badge/Instagram-felixznr-39FF14?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/felixznr/)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-felixznr-39FF14?style=for-the-badge&logo=letterboxd&logoColor=black)](https://boxd.it/cQNyT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Zauner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-zauner-555a2038a/)
+[![YouTube](https://img.shields.io/badge/YouTube-ALBERT--AERO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ALBERT-AERO)
+[![Instagram](https://img.shields.io/badge/Instagram-felixznr-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felixznr/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-felixznr-00C030?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/cQNyT)
 
 </div>
 
