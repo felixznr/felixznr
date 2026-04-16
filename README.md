@@ -72,7 +72,9 @@ Feel free to reach out — whether it's about one of my projects or just to say 
 
 
 <div align="center">
+ 
 <img src="log_lady.svg" width="550"/>
+
 </div>
 
 
