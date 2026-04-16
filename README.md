@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B9E6B&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems;Damn+fine+cup+of+coffee.+-+Cooper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EB4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems;Damn+fine+cup+of+coffee.+-+Cooper)](https://git.io/typing-svg)
 
 <br/>
 
@@ -50,7 +50,7 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 
 
-## Some Impressions of my work ;)
+## Some Impressions of my Work ;)
 
 <div align="center">
  
