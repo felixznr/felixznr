@@ -11,7 +11,7 @@
       text {
         font-family: 'Courier New', monospace;
         font-size: 13px;
-        fill: #39FF14;
+        fill: #FF6EB4;
         filter: url(#glow);
         white-space: pre;
       }
