@@ -1,14 +1,14 @@
 <div align="center">
-
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix+%F0%9F%91%8B;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer+%F0%9F%9A%80;Passionate+about+Embedded+Systems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix;Student+%40+HTBLuVA+Salzburg;Building+a+Flight+Computer;Passionate+about+Embedded+Systems)](https://git.io/typing-svg)
+ 
 <br/>
-
-<!-- Social / contact badges -->
-[![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixzauner21@icloud.com)
-[![School](https://img.shields.io/badge/HTBLuVA-Salzburg-red?style=for-the-badge&logo=academia&logoColor=white)](https://www.htl-salzburg.ac.at/)
-
+> *"Damn fine cup of coffee."* — Agent Cooper, Twin Peaks
+ 
+<br/>
+[![Email](https://img.shields.io/badge/Email-felix.zauner07%40htl--salzburg.ac.at-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felix.zauner07@htl-salzburg.ac.at)
+[![School](https://img.shields.io/badge/HTBLuVA-Salzburg-39FF14?style=for-the-badge&logo=academia&logoColor=black)](https://www.htl-salzburg.ac.at/)
+ 
 </div>
 
 ---
