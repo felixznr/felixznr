@@ -43,20 +43,6 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 ---
 
-## 🚀 Diploma Thesis — Flight Computer
-
-> Designing a custom flight computer for a model rocket — from schematic to firmware.
-
-| Area | Details |
-|---|---|
-| 🧩 **MCU** | STM32 (ARM Cortex-M) |
-| 📡 **Sensors** | IMU, Barometer, GPS |
-| 🎛️ **Control** | LQG (Linear-Quadratic-Gaussian) |
-| 🖨️ **Hardware** | Custom PCB Design in KiCad |
-| 💾 **Firmware** | Bare-metal C / FreeRTOS |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,8 +64,4 @@ Feel free to reach out — whether it's about embedded systems, control theory, 
 
 </div>
 
----
 
-<div align="center">
-<sub>⚡ Powered by curiosity and too much coffee ⚡</sub>
-</div>
