@@ -50,6 +50,8 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 ---
 
+## Some Impressions of my work ;)
+
 <div align="center">
  
 <img src="collage.gif" width="500"/>
@@ -70,7 +72,7 @@ Feel free to reach out — whether it's about one of my projects or just to say 
 
 
 <div align="center">
-<img src="log_lady.svg" width="420"/>
+<img src="log_lady.svg" width="550"/>
 </div>
 
 
