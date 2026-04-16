@@ -61,8 +61,8 @@ My current focus is my **diploma thesis**: designing a fully functional **Flight
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felixzauner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixzauner&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felixznr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixznr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
