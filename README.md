@@ -19,14 +19,14 @@
 
 ## About Me
 
-I'm a high school student at **HTBLuVA Salzburg**, Austria — passionate about embedded systems, control theory, and building things that actually work in the real world.
+I'm a high school student at **HTBLuVA Salzburg**, Austria — passionate about pcb design, control theory, and building things that actually work in the real world.
 
-My current focus is my **diploma thesis**: designing a fully functional **Flight Computer** from the ground up — firmware, hardware, and all.
+My current focus is my **diploma thesis**: designing a fully functional **Flight Computer** for a rocket from the ground up — firmware, hardware, and all that comes with it.
 
 - &nbsp;Working on a **Flight Computer** for my diploma thesis
 - &nbsp;Interested in **STM32**, **LQG Control Theory** & **PCB Design**
 - &nbsp;Based in **Salzburg, Austria**
-- &nbsp;Always curious, always building
+
 
 ---
 
@@ -62,5 +62,5 @@ Feel free to reach out — whether it's about embedded systems, control theory, 
 ---
 
 <div align="center">
-<sub>⚡ Powered by curiosity and too much coffee ⚡</sub>
+<sub>⚡ Powered by curiosity!</sub>
 </div>
